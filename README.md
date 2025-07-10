@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I’m a student, software engineer, and entrepreneur - always building, always learning.
 
-Currently, I'm a sophomore at the University of Denver, splitting my time between classes, developing for two companies, and leading my own startup. I’m passionate about creating tools that make everyday systems smarter, faster, and more intuitive.
+Currently, I'm a junior at the University of Denver, splitting my time between classes, developing for two companies, and leading my own startup. I’m passionate about creating tools that make everyday systems smarter, faster, and more intuitive.
 
 ---
 
