@@ -8,6 +8,16 @@ Currently, I'm a junior at the University of Denver, splitting my time between c
 
 ## ⚒️ My Recent Projects
 
+### 🎙️ Jottly.ai
+**Jottly** is my flagship AI-powered note-taking platform that transforms how students and professioanls capture and interact with information. Available at [jottly.ai](https://jottly.ai), it goes way beyond basic transcription to become an intelligent thinking partner:
+- 🎯 Agentic note-taking that captures audio from lectures and meetings and writes detailed notes
+- 🧠 AI that understands context, identifies patterns, and connects ideas  
+- 💡 Expand Concepts mode (Plus) that turns simple notes into thorough explanations  
+- 🔒 Enterprise-grade security
+- 🤖 Powered by Stratus with Personal Intelligence that remembers things for you
+
+Built to help students and professioanls move from passive note-taking to active learning and understanding. Free tier + Plus ($10/month) for advanced features.
+
 ### 📝 CanvasPal
 **CanvasPal** is a TypeScript + Next.js app built during a hackathon to turn your Canvas LMS into an AI-powered study partner. It taps into the Canvas API and leverages LLMs to:
 
