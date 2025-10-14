@@ -44,7 +44,7 @@ Stratus Code is a GitHub App that brings AI-powered code review and interactive 
 * NeuroQuest Labs Stratus Router
 * Serverless deployment on Vercel for zero-maintenance ops
 
-`Currently an internal NeuroQuest Labs tool`
+`Currently an internal NeuroQuest Labs tool (may open-source in the future)`
 
 ### 📝 CanvasPal
 **CanvasPal** is a TypeScript + Next.js app built during a hackathon to turn your Canvas LMS into an AI-powered study partner. It taps into the Canvas API and leverages LLMs to:
